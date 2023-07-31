@@ -1,0 +1,19 @@
+Hi..I’m Sriramulu. I have 4+ years of experience in IT industry in which for the initial.2.6 years I was working as Java Developer & after that I moved to on premise infrastructure I have also worked on various Devops tools like GitLab, Jenkins, pipeline, SonarQube, Docker, Kubernetes, shell scripting.
+
+                            In the Current project which I’m doing revolves around  A project which is in the on premise for GE Helath care Domain client which is present, we are responsible to manage the infrastructure, so my daily day to day job is :to do the monitoring the infrastructure & to see if any problems or any issue though we have all ready created monitoring tools using K8s, Prometheus or Grafana.If any alarms or events are triggered then automatically captured via Jenkins Pipline or K8s Logs files  which is working inside serverless infrastructure the code of which is written both in Java Developer using POM.xml to Maven Deploy 
+  
+	Apart from that if there any incident reported inside k8s dashboad that tickets if it is assign to any of team members including me ,our job is to work on that.is the responsibility I have at the moment.
+install and configure Kubernetes clusters, including setting up nodes, configuring networking, and creating custom configurations. Responsible for creating, scaling, and managing Kubernetes resources, such as pods, services, deployments, and replicasets. I should be able to identify and resolve issues with Kubernetes clusters and applications running on them, using tools such as kubectl, logs, and metrics. write scripts or use tools to automate tasks such as backups, upgrades, and scaling..set up monitoring and observability tools such as prometheus and graffana to track the performance and health of Kubernetes clusters and applications. work closely with developers, DevOps teams, and other testing team member to understand their requirements and provide solutions.
+
+
+
+Linux Administrator Duties:
+Manage, support, and maintain Linux installed systems
+Install, upgrade, and maintain Linux based systems
+Ensure security of systems and data
+Manage system backups, restore, and recovery
+Assist with Linux server administration tasks
+
+
+
+			
